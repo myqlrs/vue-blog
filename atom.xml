@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>myqlrs</title>
+  
+  
+  <link href="http://myq.codes/atom.xml" rel="self"/>
+  
+  <link href="http://myq.codes/"/>
+  <updated>2021-05-16T12:43:20.025Z</updated>
+  <id>http://myq.codes/</id>
+  
+  <author>
+    <name>myqlrs</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://myq.codes/2021/05/23/jepaas/"/>
+    <id>http://myq.codes/2021/05/23/jepaas/</id>
+    <published>2021-05-23T10:58:41.872Z</published>
+    <updated>2021-05-16T12:43:20.025Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1.获取字典&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gitee.com/myqlrs/cloudimage/raw/master/image/image-20210516193214374.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JavaWeb练习</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/zong-he-lian-xi-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/zong-he-lian-xi-bi-ji/</id>
+    <published>2021-01-10T08:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. 综合练习
+    1. 简单功能
+        1. 列表查询
+        2. 登录
+   </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://myq.codes/categories/Java/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="JavaWeb练习" scheme="http://myq.codes/tags/JavaWeb%E7%BB%83%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/redis-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/redis-bi-ji/</id>
+    <published>2021-01-10T07:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.143Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. redis
+    1. 概念
+    2. 下载安装
+    3. 命令操作
+        1.</summary>
+        
+      
+    
+    
+    
+    <category term="Redis" scheme="http://myq.codes/categories/Redis/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Redis" scheme="http://myq.codes/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Filter&amp;Listener</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/filter-listener-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/filter-listener-bi-ji/</id>
+    <published>2021-01-10T06:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. Filter：过滤器
+2. Listener：监听器&lt;/code&gt;&lt;/pre&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="Filter&amp;Listener" scheme="http://myq.codes/categories/Filter-Listener/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Filter&amp;Listener" scheme="http://myq.codes/tags/Filter-Listener/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>EL&amp;JSTL表达式</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/el-jstl-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/el-jstl-bi-ji/</id>
+    <published>2021-01-10T05:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.138Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. JSP:
+    1. 指令
+    2. 注释
+    3. 内置对象
+
+2.</summary>
+        
+      
+    
+    
+    
+    <category term="EL&amp;JSTL" scheme="http://myq.codes/categories/EL-JSTL/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="EL&amp;JSTL" scheme="http://myq.codes/tags/EL-JSTL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cookie&amp;Session</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/cookie-session-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/cookie-session-bi-ji/</id>
+    <published>2021-01-10T04:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. 会话技术
+    1. Cookie
+    2. Session
+2.</summary>
+        
+      
+    
+    
+    
+    <category term="Cookie" scheme="http://myq.codes/categories/Cookie/"/>
+    
+    <category term="Session" scheme="http://myq.codes/categories/Cookie/Session/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Cookie" scheme="http://myq.codes/tags/Cookie/"/>
+    
+    <category term="Session" scheme="http://myq.codes/tags/Session/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tomcat&amp;Servlet</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/tomcat-servlet-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/tomcat-servlet-bi-ji/</id>
+    <published>2021-01-10T03:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.142Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. web相关概念回顾
+2. web服务器软件：Tomcat
+3.</summary>
+        
+      
+    
+    
+    
+    <category term="Tomcat" scheme="http://myq.codes/categories/Tomcat/"/>
+    
+    <category term="Servlet" scheme="http://myq.codes/categories/Tomcat/Servlet/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Tomcat" scheme="http://myq.codes/tags/Tomcat/"/>
+    
+    <category term="Servlet" scheme="http://myq.codes/tags/Servlet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Servlet&amp;HTTP&amp;Request</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/servlet-http-request-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/servlet-http-request-bi-ji/</id>
+    <published>2021-01-10T02:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.142Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容：&quot;&gt;&lt;a href=&quot;#今日内容：&quot; class=&quot;headerlink&quot; title=&quot;今日内容：&quot;&gt;&lt;/a&gt;今日内容：&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. Servlet
+2. HTTP协议
+3. Request&lt;/code&gt;&lt;/pre&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Servlet" scheme="http://myq.codes/categories/Servlet/"/>
+    
+    <category term="HTTP" scheme="http://myq.codes/categories/Servlet/HTTP/"/>
+    
+    <category term="Request" scheme="http://myq.codes/categories/Servlet/HTTP/Request/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Servlet" scheme="http://myq.codes/tags/Servlet/"/>
+    
+    <category term="HTTP" scheme="http://myq.codes/tags/HTTP/"/>
+    
+    <category term="Request" scheme="http://myq.codes/tags/Request/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Response</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/response-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/response-bi-ji/</id>
+    <published>2021-01-10T01:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.141Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. HTTP协议：响应消息
+2. Response对象
+3.</summary>
+        
+      
+    
+    
+    
+    <category term="Response" scheme="http://myq.codes/categories/Response/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Response" scheme="http://myq.codes/tags/Response/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Xml</title>
+    <link href="http://myq.codes/2021/01/10/javaweb/xml-bi-ji/"/>
+    <id>http://myq.codes/2021/01/10/javaweb/xml-bi-ji/</id>
+    <published>2021-01-10T00:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.144Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. XML
+    1. 概念
+    2. 语法
+    3. 解析&lt;/code&gt;&lt;/pre&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Xml" scheme="http://myq.codes/categories/Xml/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Xml" scheme="http://myq.codes/tags/Xml/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Api</title>
+    <link href="http://myq.codes/2021/01/09/api/"/>
+    <id>http://myq.codes/2021/01/09/api/</id>
+    <published>2021-01-09T11:26:55.000Z</published>
+    <updated>2021-01-10T06:31:25.118Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Api&quot;&gt;&lt;a href=&quot;#Api&quot; class=&quot;headerlink&quot; title=&quot;Api&quot;&gt;&lt;/a&gt;Api&lt;/h2&gt;&lt;h3 id=&quot;今日诗词&quot;&gt;&lt;a href=&quot;#今日诗词&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="api" scheme="http://myq.codes/tags/api/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ajax&amp;Json</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/ajax-json-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/ajax-json-bi-ji/</id>
+    <published>2021-01-09T07:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.120Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. AJAX：
+2. JSON&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&quot;AJAX：&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Ajax" scheme="http://myq.codes/categories/Ajax/"/>
+    
+    <category term="Json" scheme="http://myq.codes/categories/Ajax/Json/"/>
+    
+    
+    <category term="Ajax" scheme="http://myq.codes/tags/Ajax/"/>
+    
+    <category term="Json" scheme="http://myq.codes/tags/Json/"/>
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JQuery高级</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/jquery-gao-ji-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/jquery-gao-ji-bi-ji/</id>
+    <published>2021-01-09T06:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.127Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今日内容：&quot;&gt;&lt;a href=&quot;#今日内容：&quot; class=&quot;headerlink&quot; title=&quot;今日内容：&quot;&gt;&lt;/a&gt;今日内容：&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. JQuery 高级
+    1. 动画
+    2. 遍历
+    3. 事件绑定
+   </summary>
+        
+      
+    
+    
+    
+    <category term="JQuery" scheme="http://myq.codes/categories/JQuery/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="JQuery" scheme="http://myq.codes/tags/JQuery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JQuery基础</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/jquery-ji-chu-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/jquery-ji-chu-bi-ji/</id>
+    <published>2021-01-09T05:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.127Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. JQuery 基础：
+    1. 概念
+    2. 快速入门
+    3.</summary>
+        
+      
+    
+    
+    
+    <category term="JQuery" scheme="http://myq.codes/categories/JQuery/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="JQuery" scheme="http://myq.codes/tags/JQuery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BootStrap</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/bootstrap-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/bootstrap-bi-ji/</id>
+    <published>2021-01-09T04:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.123Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. Bootstrap&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;Bootstrap：&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Bootstrap" scheme="http://myq.codes/categories/Bootstrap/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Bootstrap" scheme="http://myq.codes/tags/Bootstrap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript高级</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/javascript-gao-ji-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/javascript-gao-ji-bi-ji/</id>
+    <published>2021-01-09T03:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.129Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容：&quot;&gt;&lt;a href=&quot;#今日内容：&quot; class=&quot;headerlink&quot; title=&quot;今日内容：&quot;&gt;&lt;/a&gt;今日内容：&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. JavaScript：
+    1. ECMAScript：
+    2. BOM：
+   </summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="http://myq.codes/categories/JavaScript/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="JavaScript" scheme="http://myq.codes/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript基础</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/javascript-ji-chu-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/javascript-ji-chu-bi-ji/</id>
+    <published>2021-01-09T02:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.128Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. JavaScript基础&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;JavaScript：&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="JavaScript" scheme="http://myq.codes/categories/JavaScript/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="JavaScript" scheme="http://myq.codes/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Html&amp;Css</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/html-css-ke-tang-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/html-css-ke-tang-bi-ji/</id>
+    <published>2021-01-09T01:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.124Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容：&quot;&gt;&lt;a href=&quot;#今日内容：&quot; class=&quot;headerlink&quot; title=&quot;今日内容：&quot;&gt;&lt;/a&gt;今日内容：&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. HTML标签：表单标签
+
+2. CSS：&lt;/code&gt;&lt;/pre&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Html" scheme="http://myq.codes/categories/Html/"/>
+    
+    <category term="Css" scheme="http://myq.codes/categories/Html/Css/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Html&amp;Css" scheme="http://myq.codes/tags/Html-Css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Html</title>
+    <link href="http://myq.codes/2021/01/09/html-css-javascript/html-bi-ji/"/>
+    <id>http://myq.codes/2021/01/09/html-css-javascript/html-bi-ji/</id>
+    <published>2021-01-09T00:10:25.000Z</published>
+    <updated>2021-01-10T06:31:25.125Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;今日内容&quot;&gt;&lt;a href=&quot;#今日内容&quot; class=&quot;headerlink&quot; title=&quot;今日内容&quot;&gt;&lt;/a&gt;今日内容&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1. web概念概述
+2. HTML&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;web-概念概述&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Html" scheme="http://myq.codes/categories/Html/"/>
+    
+    
+    <category term="笔记" scheme="http://myq.codes/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="Html" scheme="http://myq.codes/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo说明</title>
+    <link href="http://myq.codes/2021/01/08/hexo/hexo-shuo-ming/"/>
+    <id>http://myq.codes/2021/01/08/hexo/hexo-shuo-ming/</id>
+    <published>2021-01-08T09:16:29.000Z</published>
+    <updated>2021-01-10T06:31:25.131Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;配置&quot;&gt;&lt;a href=&quot;#配置&quot; class=&quot;headerlink&quot; title=&quot;配置&quot;&gt;&lt;/a&gt;配置&lt;/h2&gt;&lt;h3 id=&quot;切换主题&quot;&gt;&lt;a href=&quot;#切换主题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo" scheme="http://myq.codes/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="http://myq.codes/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
